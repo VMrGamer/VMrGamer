@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Patadia</h1>
-<h3 align="center">I'm a passionate Software Developer and Data Engineer with experience in:</h3>
+<h3 align="left">I'm a passionate Software Developer and Data Engineer with experience in:</h3>
 <ul>
     <li><strong>Embedded Systems</strong></li>
     <li><strong>Machine Learning</strong></li>
@@ -25,7 +25,7 @@
 <hr>
 <blockquote>
   <p>"Learning never exhausts the mind." – Leonardo da Vinci</p>
-</blockquote>.
+</blockquote>
 
 <hr>
 
